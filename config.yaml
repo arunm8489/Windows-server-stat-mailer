@@ -1,0 +1,8 @@
+FROM_EMAIL : "test@gmail.com"  # from email address
+TO_EMAIL: "test2@gmail.com"  # to email address
+SMTP: 
+   host: "localhost"   # whwather to send from local host or gmail
+   username: None
+   password: None
+
+
